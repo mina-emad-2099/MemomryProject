@@ -17,12 +17,6 @@ The simulator features both a standard **console interface** and an interactive,
   - Real-time interactive memory map / Gantt-style layout.
   - Live updates of the Segment Page Tables.
 
-## Screenshots
-*(Note: Add your screenshots to a `docs/` or `assets/` folder and update these paths once you push them to GitHub)*
-
-> **[ Placeholder: Insert an image of your GUI memory map here ]**
-> `![GUI Screenshot](assets/gui_screenshot.png)`
-
 ## Dependencies
 
 CMake **does not** install these natively; you must have them on your machine before building.
