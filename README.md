@@ -1,4 +1,3 @@
-```markdown
 # Memory Allocation Simulator
 
 A C++ educational project that simulates dynamic memory allocation using **Segmentation**. This tool visualizes how an operating system manages memory, allocates segments for active processes, and merges free spaces (holes) upon deallocation.
